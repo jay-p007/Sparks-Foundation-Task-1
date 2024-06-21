@@ -39,7 +39,7 @@ pip install pandas numpy matplotlib scikit-learn
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/student-score-prediction.git
+https://github.com/jay-p007/Sparks-Foundation-Task-1.git
 ```
 
 
